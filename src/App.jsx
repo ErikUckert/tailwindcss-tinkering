@@ -53,6 +53,66 @@ export default function App() {
                             </div>
                         </div>
                     </div>
+                    <div className="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
+                        <img className="h-32 w-32 flex-shrink-0" src="/img/beach-work.jpg" alt="image" />
+                        <div className="px-6 py-4">
+                            <h3 className="text-lg font-semibold text-gray-800">City</h3>
+                            <p className="text-gray-600">$100 / night average</p>
+                            <div className="mt-4">
+                                <a href="#" className="text-indigo-600 hover:text-indigo-500 font-semibold text-sm">
+                                    Explore 99 properties
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
+                        <img className="h-32 w-32 flex-shrink-0" src="/img/beach-work.jpg" alt="image" />
+                        <div className="px-6 py-4">
+                            <h3 className="text-lg font-semibold text-gray-800">City</h3>
+                            <p className="text-gray-600">$100 / night average</p>
+                            <div className="mt-4">
+                                <a href="#" className="text-indigo-600 hover:text-indigo-500 font-semibold text-sm">
+                                    Explore 99 properties
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
+                        <img className="h-32 w-32 flex-shrink-0" src="/img/beach-work.jpg" alt="image" />
+                        <div className="px-6 py-4">
+                            <h3 className="text-lg font-semibold text-gray-800">City</h3>
+                            <p className="text-gray-600">$100 / night average</p>
+                            <div className="mt-4">
+                                <a href="#" className="text-indigo-600 hover:text-indigo-500 font-semibold text-sm">
+                                    Explore 99 properties
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
+                        <img className="h-32 w-32 flex-shrink-0" src="/img/beach-work.jpg" alt="image" />
+                        <div className="px-6 py-4">
+                            <h3 className="text-lg font-semibold text-gray-800">City</h3>
+                            <p className="text-gray-600">$100 / night average</p>
+                            <div className="mt-4">
+                                <a href="#" className="text-indigo-600 hover:text-indigo-500 font-semibold text-sm">
+                                    Explore 99 properties
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
+                        <img className="h-32 w-32 flex-shrink-0" src="/img/beach-work.jpg" alt="image" />
+                        <div className="px-6 py-4">
+                            <h3 className="text-lg font-semibold text-gray-800">City</h3>
+                            <p className="text-gray-600">$100 / night average</p>
+                            <div className="mt-4">
+                                <a href="#" className="text-indigo-600 hover:text-indigo-500 font-semibold text-sm">
+                                    Explore 99 properties
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
